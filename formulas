@@ -1,5 +1,3 @@
-$\vec{R} = \begin{bmatrix} R{x} \ R{y} \ R_{z}$
-
 {
  "cells": [
   {
@@ -13,17 +11,3 @@ $\vec{R} = \begin{bmatrix} R{x} \ R{y} \ R_{z}$
     "\n",
     "Uma equação do segundo grau $ax^2 + bx + c = 0$, para $a \\neq 0$, tem como soluçõe reais $x_+$ e $x_-$ dadas pelas seguintes expressões\n",
     "\n",
-     \end{bmatrix}
-    =
-     \begin{bmatrix}
-       i L_{x} \\
-       i L_{y} \\
-       i L_{z}
-     \end{bmatrix}
-              =
-     \begin{bmatrix}
-       \frac{i}{2}(L_{+}+L_{-} ) \\
-       \frac{1}{2}(L_{+}-L_{-} )  \\
-       i L_{z}
-     \end{bmatrix}
- $
