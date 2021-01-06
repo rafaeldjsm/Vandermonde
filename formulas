@@ -1,4 +1,4 @@
-$$ \vec{R} = \begin{bmatrix} R{x} \ R{y} \ R_{z}
+$ \vec{R} = \begin{bmatrix} R{x} \ R{y} \ R_{z}
 
      \end{bmatrix}
     =
@@ -13,4 +13,4 @@ $$ \vec{R} = \begin{bmatrix} R{x} \ R{y} \ R_{z}
        \frac{1}{2}(L_{+}-L_{-} )  \\
        i L_{z}
      \end{bmatrix}
- $$
+ $
